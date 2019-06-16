@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TestFunc.unity
+    guid: b5c0dc6f0173e26408e5c847b5ef958d
+  - enabled: 1
+    path: Assets/Scenes/LostScene.unity
+    guid: 99177a892555d5a499a69ba26590007d
+  m_configObjects: {}
