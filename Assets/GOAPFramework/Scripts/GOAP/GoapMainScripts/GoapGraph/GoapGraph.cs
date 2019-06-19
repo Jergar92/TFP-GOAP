@@ -12,7 +12,7 @@ namespace GOAP.Framework
 
         [System.NonSerialized]
         private List<NodeAction> _currentPlan;
-
+        [HideInInspector]
         [SerializeField]
         private string _serializedGraph;
         [SerializeField]
